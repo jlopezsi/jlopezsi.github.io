@@ -1,4 +1,4 @@
-jlopezsi.github.io
-==================
+hugo_gh_blog
+============
 
-Site of Consumption, Markets, and Culture (CMC) research group
+Template repo for a blog built with Hugo deployed on github-pages

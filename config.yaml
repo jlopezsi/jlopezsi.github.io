@@ -4,6 +4,6 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://jlopezsi.github.io/public“
+baseurl: "http://jlopezsi.github.io/“
 title: “Jordi’s Blog Template for GitHub Pages"
 ...

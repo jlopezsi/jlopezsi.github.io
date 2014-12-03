@@ -1,0 +1,9 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://jlopezsi.github.io/public“
+title: “Jordi’s Blog Template for GitHub Pages"
+...

@@ -1,4 +1,4 @@
-# Dr. Jordi López Sintas (IP)
+## Dr. Jordi López Sintas (IP)
 ##Personal Information
 ###Address: 
 

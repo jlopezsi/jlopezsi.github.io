@@ -35,28 +35,6 @@
     
     <item>
       <title>Second Post</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/pages/page1/</link>
-      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/pages/page1/</guid>
-      <description>
-
-&lt;h2 id=&#34;sample-page-1:45ca767ba77bc1445a0acab74f80812f&#34;&gt;Sample Page 1&lt;/h2&gt;
-
-&lt;p&gt;his is my first post&lt;/p&gt;
-
-&lt;h3 id=&#34;sub-heading:45ca767ba77bc1445a0acab74f80812f&#34;&gt;Sub-heading&lt;/h3&gt;
-
-&lt;p&gt;This is an example of a sub-heading&lt;/p&gt;
-
-&lt;h2 id=&#34;foo:45ca767ba77bc1445a0acab74f80812f&#34;&gt;foo&lt;/h2&gt;
-
-&lt;p&gt;Back to a heading&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
       <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
       
@@ -78,25 +56,24 @@
     </item>
     
     <item>
-      <title>Name</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/cvs/cv.background/</link>
-      <pubDate>Thu, 27 Mar 2014 00:00:00 UTC</pubDate>
+      <title>Second Post</title>
+      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/pages/page1/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/cvs/cv.background/</guid>
+      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/pages/page1/</guid>
       <description>
 
-&lt;p&gt;##Education
-PhD&lt;/p&gt;
+&lt;h2 id=&#34;sample-page-1:45ca767ba77bc1445a0acab74f80812f&#34;&gt;Sample Page 1&lt;/h2&gt;
 
-&lt;p&gt;another&lt;/p&gt;
+&lt;p&gt;his is my first post&lt;/p&gt;
 
-&lt;h3 id=&#34;sub-heading:64cba05a7e0d3b4fd2adba375bf78804&#34;&gt;Sub-heading&lt;/h3&gt;
+&lt;h3 id=&#34;sub-heading:45ca767ba77bc1445a0acab74f80812f&#34;&gt;Sub-heading&lt;/h3&gt;
 
-&lt;p&gt;another&lt;/p&gt;
+&lt;p&gt;This is an example of a sub-heading&lt;/p&gt;
 
-&lt;h2 id=&#34;foo:64cba05a7e0d3b4fd2adba375bf78804&#34;&gt;foo&lt;/h2&gt;
+&lt;h2 id=&#34;foo:45ca767ba77bc1445a0acab74f80812f&#34;&gt;foo&lt;/h2&gt;
 
-&lt;p&gt;tired&lt;/p&gt;
+&lt;p&gt;Back to a heading&lt;/p&gt;
 </description>
     </item>
     
@@ -118,6 +95,29 @@ My names is Jordi&lt;/p&gt;
 &lt;p&gt;another&lt;/p&gt;
 
 &lt;h2 id=&#34;foo:3d7ffb3e22288f1415d94c1271584fe2&#34;&gt;foo&lt;/h2&gt;
+
+&lt;p&gt;tired&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Name</title>
+      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/cvs/cv.background/</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/cvs/cv.background/</guid>
+      <description>
+
+&lt;p&gt;##Education
+PhD&lt;/p&gt;
+
+&lt;p&gt;another&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-heading:64cba05a7e0d3b4fd2adba375bf78804&#34;&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;another&lt;/p&gt;
+
+&lt;h2 id=&#34;foo:64cba05a7e0d3b4fd2adba375bf78804&#34;&gt;foo&lt;/h2&gt;
 
 &lt;p&gt;tired&lt;/p&gt;
 </description>

@@ -5,7 +5,7 @@ publishdir: ""
 indexes:
   category: "categories"
   page: "pages"
-  cv: “cvs”
+  vita: “vitas”
 baseurl: "http://jlopezsi.github.io/“
 title: “Jordi’s Blog Template for GitHub Pages"
 ...

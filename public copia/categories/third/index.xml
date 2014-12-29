@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Third on </title>
+    <link>/categories/third/</link>
+    <description>Recent content in Third on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+    
+    
+    <lastBuildDate>Sat, 29 Mar 2014 00:00:00 UTC</lastBuildDate>
+    <atom:link href="/categories/third/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Just another sample post</title>
+      <link>/posts/newest/</link>
+      <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>/posts/newest/</guid>
+      <description>
+
+&lt;h2 id=&#34;first-heading:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;First Heading&lt;/h2&gt;
+
+&lt;p&gt;another test&lt;/p&gt;
+
+&lt;h3 id=&#34;sub:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;Sub&lt;/h3&gt;
+
+&lt;p&gt;Another sub-heading&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Ups&amp;hellip;.∫&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

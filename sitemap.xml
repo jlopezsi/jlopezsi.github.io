@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/</loc>
+    <loc>http://spencerlyon2.github.io/hugo_gh_blog/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/newest/</loc>
+    <loc>http://spencerlyon2.github.io/hugo_gh_blog/posts/newest/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/middle/</loc>
+    <loc>http://spencerlyon2.github.io/hugo_gh_blog/posts/middle/</loc>
     <lastmod>2014-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/oldest/</loc>
+    <loc>http://spencerlyon2.github.io/hugo_gh_blog/posts/oldest/</loc>
     <lastmod>2014-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/about/about/</loc>
+    <loc>http://spencerlyon2.github.io/hugo_gh_blog/about/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   

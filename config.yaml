@@ -8,4 +8,7 @@ indexes:
   vita: “vitas”
 baseurl: "http://jlopezsi.github.io/“
 title: “Jordi’s Blog Template for GitHub Pages"
+name:  “Jordi López“
+email: “jordi.lopez@uab.es”
+twiter: “jlopezsi”
 ...

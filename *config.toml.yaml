@@ -1,0 +1,26 @@
+languageCode = "en-us"
+contentdir = "content"
+publishdir = ""
+builddrafts = false
+baseurl = "http://jlopezsi.github.io/"
+canonifyurls = true
+title = "Fredrik Loch"
+author = "Fredrik Loch"
+theme: “hugo-uno”
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Fredrik"
+  github = "Senjindarashiva"
+  bitbucket = "floch"
+  flickr = "senjin"
+  twitter = "senjindarshiva"
+  email = "fredrik.loch@outlook.com"
+  description = ""
+  cv = "/pages/cv"
+  muut = "fredrikloch"
+  linkedin = "fredrikloch"
+  cover = "/images/background-cover.jpg"
+  logo = "/img/logo-1.jpg"

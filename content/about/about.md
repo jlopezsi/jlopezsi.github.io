@@ -1,8 +1,10 @@
 +++
 date = "2014-04-09"
 title = "About Me"
-description = "About me, my tech musings, current projects and how to get in touch!"
-keywords = ["andrei mihu", "about", "website", "blog", "contact"]
+sidebar = true
+weight = "1"
+description = "About me, my academic life, current projects and how to get in touch!"
+keywords = ["Jordi", "about", "website", "blog", "contact"]
 menu = "main"
 +++
 Hi, I'm jordi! I'm a software engineer living and working in London.

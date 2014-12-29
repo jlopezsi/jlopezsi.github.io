@@ -2,11 +2,10 @@
 contentdir: "content"
 layoutdir: "layouts"
 publishdir: ""
-theme: “hyde-x”
+
 indexes:
   category: "categories"
-  page: "pages"
-  vita: “vitas”
+  project: “projects”
 baseurl: "http://jlopezsi.github.io/“
 title: “Jordi’s Blog Template for GitHub Pages"
 params:

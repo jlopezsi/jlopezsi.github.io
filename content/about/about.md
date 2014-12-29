@@ -1,12 +1,15 @@
-+++
-date = "2014-04-09"
-title = "About Me"
-sidebar = true
-weight = "1"
-description = "About me, my academic life, current projects and how to get in touch!"
-keywords = ["Jordi", "about", "website", "blog", "contact"]
-menu = "main"
-+++
+----
+date: "2014-04-09"
+title: "About Me"
+sidebar: true
+weight: "1"
+description: "About me, my academic life, current projects and how to get in touch!"
+menu: "main"
+Categories:
+    - "about me"
+    
+---
+
 Hi, I'm jordi! I'm a software engineer living and working in London.
 
 I work mostly in <a href="http://elixir-lang.org/">Elixir</a> and Java.

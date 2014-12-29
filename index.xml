@@ -78,12 +78,25 @@
     </item>
     
     <item>
-      <title>About Me</title>
+      <title></title>
       <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/about/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 UTC</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/about/about/</guid>
       <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;date: &amp;ldquo;2014-04-09&amp;rdquo;
+title: &amp;ldquo;About Me&amp;rdquo;
+sidebar: true
+weight: &amp;ldquo;1&amp;rdquo;
+description: &amp;ldquo;About me, my academic life, current projects and how to get in touch!&amp;rdquo;
+menu: &amp;ldquo;main&amp;rdquo;
+Categories:
+    - &amp;ldquo;about me&amp;rdquo;&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;Hi, I&amp;rsquo;m jordi! I&amp;rsquo;m a software engineer living and working in London.&lt;/p&gt;
 

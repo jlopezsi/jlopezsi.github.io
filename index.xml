@@ -8,8 +8,30 @@
     
     
     
-    <lastBuildDate>Sat, 29 Mar 2014 00:00:00 UTC</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 UTC</lastBuildDate>
     <atom:link href="http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/about/</guid>
+      <description>
+
+&lt;p&gt;Hi, I&amp;rsquo;m jordi! I&amp;rsquo;m a software engineer living and working in London.&lt;/p&gt;
+
+&lt;p&gt;I work mostly in &lt;a href=&#34;http://elixir-lang.org/&#34;&gt;Elixir&lt;/a&gt; and Java.&lt;/p&gt;
+
+&lt;p&gt;My main interest is in server-side technology and massive scalability, but I&amp;rsquo;ve been known to dabble in native mobile development, user facing web applications and various other projects.&lt;/p&gt;
+
+&lt;p&gt;Check out my &lt;a href=&#34;https://github.com/zyro&#34;&gt;GitHub page&lt;/a&gt; to see what I&amp;rsquo;ve been up to recently!&lt;/p&gt;
+
+&lt;h3 id=&#34;contact:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Contact&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to get in touch, you can find me on &lt;a href=&#34;http://www.linkedin.com/in/andreimihu&#34;&gt;LinkedIn&lt;/a&gt; or reach me at hello@andreimihu.com&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Just another sample post</title>
@@ -35,28 +57,6 @@
     
     <item>
       <title>Second Post</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</link>
-      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</guid>
-      <description>
-
-&lt;h2 id=&#34;sample-post-1:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sample Post 1&lt;/h2&gt;
-
-&lt;p&gt;his is my first post&lt;/p&gt;
-
-&lt;h3 id=&#34;sub-heading:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sub-heading&lt;/h3&gt;
-
-&lt;p&gt;This is an example of a sub-heading&lt;/p&gt;
-
-&lt;h2 id=&#34;foo:5d41645769bc0f1237f2300a661d7e18&#34;&gt;foo&lt;/h2&gt;
-
-&lt;p&gt;Back to a heading&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
       <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/pages/page1/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
       
@@ -72,6 +72,28 @@
 &lt;p&gt;This is an example of a sub-heading&lt;/p&gt;
 
 &lt;h2 id=&#34;foo:45ca767ba77bc1445a0acab74f80812f&#34;&gt;foo&lt;/h2&gt;
+
+&lt;p&gt;Back to a heading&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</guid>
+      <description>
+
+&lt;h2 id=&#34;sample-post-1:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sample Post 1&lt;/h2&gt;
+
+&lt;p&gt;his is my first post&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-heading:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;This is an example of a sub-heading&lt;/p&gt;
+
+&lt;h2 id=&#34;foo:5d41645769bc0f1237f2300a661d7e18&#34;&gt;foo&lt;/h2&gt;
 
 &lt;p&gt;Back to a heading&lt;/p&gt;
 </description>

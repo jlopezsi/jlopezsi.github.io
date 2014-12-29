@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on </title>
-    <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/categories/test/</link>
+    <link>/categories/test/</link>
     <description>Recent content in Test on </description>
     <generator>Hugo -- gohugo.io</generator>
     
     
     
     <lastBuildDate>Sat, 29 Mar 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Just another sample post</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/newest/</link>
+      <link>/posts/newest/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/newest/</guid>
+      <guid>/posts/newest/</guid>
       <description>
 
 &lt;h2 id=&#34;first-heading:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;First Heading&lt;/h2&gt;
@@ -35,10 +35,32 @@
     
     <item>
       <title>Second Post</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</link>
+      <link>/pages/page1/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</guid>
+      <guid>/pages/page1/</guid>
+      <description>
+
+&lt;h2 id=&#34;sample-page-1:45ca767ba77bc1445a0acab74f80812f&#34;&gt;Sample Page 1&lt;/h2&gt;
+
+&lt;p&gt;his is my first post&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-heading:45ca767ba77bc1445a0acab74f80812f&#34;&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;This is an example of a sub-heading&lt;/p&gt;
+
+&lt;h2 id=&#34;foo:45ca767ba77bc1445a0acab74f80812f&#34;&gt;foo&lt;/h2&gt;
+
+&lt;p&gt;Back to a heading&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>/posts/middle/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>/posts/middle/</guid>
       <description>
 
 &lt;h2 id=&#34;sample-post-1:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sample Post 1&lt;/h2&gt;
@@ -57,10 +79,10 @@
     
     <item>
       <title>First Post</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/oldest/</link>
+      <link>/posts/oldest/</link>
       <pubDate>Thu, 27 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/oldest/</guid>
+      <guid>/posts/oldest/</guid>
       <description>
 
 &lt;h2 id=&#34;sample-post-1:5be75e971689338db5c820fd71089689&#34;&gt;Sample Post 1&lt;/h2&gt;

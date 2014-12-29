@@ -6,12 +6,7 @@ publishdir: ""
 indexes:
   category: "categories"
   project: “projects”
+
 baseurl: "http://jlopezsi.github.io/“
 title: “Jordi’s Blog Template for GitHub Pages"
-params:
-  ProfilePicture: "pathOrUrlToImage"
-  links:
-    Name:  “Jordi López“
-    Email: “jordi.lopez@uab.es”
-    Twiter: “jlopezsi”
 ...

@@ -35,10 +35,10 @@
     
     <item>
       <title>Just another sample post</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/newest/</link>
+      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/newest/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/newest/</guid>
+      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/newest/</guid>
       <description>
 
 &lt;h2 id=&#34;first-heading:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;First Heading&lt;/h2&gt;
@@ -52,28 +52,6 @@
 &lt;h2 id=&#34;conclusion:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;Ups&amp;hellip;.∫&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</link>
-      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</guid>
-      <description>
-
-&lt;h2 id=&#34;sample-post-1:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sample Post 1&lt;/h2&gt;
-
-&lt;p&gt;his is my first post&lt;/p&gt;
-
-&lt;h3 id=&#34;sub-heading:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sub-heading&lt;/h3&gt;
-
-&lt;p&gt;This is an example of a sub-heading&lt;/p&gt;
-
-&lt;h2 id=&#34;foo:5d41645769bc0f1237f2300a661d7e18&#34;&gt;foo&lt;/h2&gt;
-
-&lt;p&gt;Back to a heading&lt;/p&gt;
 </description>
     </item>
     
@@ -100,11 +78,33 @@
     </item>
     
     <item>
+      <title>Second Post</title>
+      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/middle/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/middle/</guid>
+      <description>
+
+&lt;h2 id=&#34;sample-post-1:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sample Post 1&lt;/h2&gt;
+
+&lt;p&gt;his is my first post&lt;/p&gt;
+
+&lt;h3 id=&#34;sub-heading:5d41645769bc0f1237f2300a661d7e18&#34;&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;This is an example of a sub-heading&lt;/p&gt;
+
+&lt;h2 id=&#34;foo:5d41645769bc0f1237f2300a661d7e18&#34;&gt;foo&lt;/h2&gt;
+
+&lt;p&gt;Back to a heading&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>First Post</title>
-      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/oldest/</link>
+      <link>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/oldest/</link>
       <pubDate>Thu, 27 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/oldest/</guid>
+      <guid>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/oldest/</guid>
       <description>
 
 &lt;h2 id=&#34;sample-post-1:5be75e971689338db5c820fd71089689&#34;&gt;Sample Post 1&lt;/h2&gt;

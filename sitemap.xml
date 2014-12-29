@@ -13,13 +13,8 @@
   </url>
   
   <url>
-    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/newest/</loc>
+    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/newest/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/middle/</loc>
-    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,7 +23,12 @@
   </url>
   
   <url>
-    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/posts/oldest/</loc>
+    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/middle/</loc>
+    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jlopezsi.github.io/%E2%80%9C%20title:%20%E2%80%9CJordi%E2%80%99s%20Blog%20Template%20for%20GitHub%20Pages/blog/oldest/</loc>
     <lastmod>2014-03-27T00:00:00+00:00</lastmod>
   </url>
   

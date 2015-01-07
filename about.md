@@ -4,27 +4,98 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This page is includes my academic backgorund, experience and current projects. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Dr. Jordi López Sintas (IP)
+##Personal Information
+###Address: 
 
-There are currently two themes built on Poole:
+Department d’economia de l’empresa, Facultat d’Economia i Empresa
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Universitat Autònoma de Barcelona
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Edifici B – Campus de Bellaterra
 
-## Setup
+08193 Bellaterra (Cerdanyola del Vallès), Barcelona, SPAIN
 
-Some fun facts about the setup of this project include:
+###Contact:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Phone: (34) 93 581 2270; Fax:     (34) 93 581 2555
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+E-mail: jordi.lopez@uab.es
 
-Thanks for reading!
+Webpage: http://jlopezsi.github.io
+
+Birth Date: November 17th, 1959
+
+Citizenship: Spain
+
+##Areas of Research
+ 
+
+Consumer Research; Sociology of consumption; Qualitative Research; 	Information, Communication and Society
+
+
+##Education
+ 
+Ph.D. Business Economics, Universitat de Barcelona, 1994
+
+Msc. Business Economics, Universitat Autònoma de Barcelona, 1985-1987
+
+B.A. Business Studies, Universitat Barcelona, 1982-1985
+
+
+##Academic Employment
+ 
+
+Associate Professor (senior lecturer), Universitat Autònoma de Barcelona, 1998-present
+
+Assistant Professor,  Universitat Autònoma de Barcelona, 1995/1998
+
+Visiting Professor, Erasmus University, 1994/1995
+
+Assistant Professor, Universitat Autònoma de Barcelona, 1990-1994
+
+ 
+##Awards and Research Grants
+ 
+
+Direcció General de Recerca, Generalitat de Catalunya: SGR-2009-411- (2010-2014).  Consumption, Markets and Culture. Principal Researcher: Jordi López-Sintas.
+
+ANECA: Acreditation needed to be contracted as University full Professor in Spanish Universities (acreditación de Catedrátio de Universidad), April 2009.
+
+Segundo Tramo de Investigación CNEAI (Social Sciences), Ministerio de Educación y Ciencia (2003-2008).
+
+Minsterio de Educación y Ciencia, ECO2008-04101 Consumption and the Markets of Culture in Contemporary Digital Context. Principal Researcher: Jordi López-Sintas.
+
+AQU-Catalunya: Acreditation needed to be contracted as University full Professor  in Catalan Universities (Acreditación de investigación avanzada para la contratación como Catedrático laboral), October 2008,  (Full professor).
+
+Ministerio de Educación y Ciencia, ECO-2008-00419-E/ECON, Iberacual Conference (Principal Researcher: Ercilia García Álvarez).
+
+AGAUR award of date 17/04. Humanities Doctoral Programme: The production and consumption of culture (Principal researcher, Daniel Rico Camps). 17/04/2006-16/04/2007.
+
+Ministerio de Ciencia y Tecnología, BEC2003-04462  The consumption of culture in Spain. (2003-2006) Principal Researcher: Jordi López-Sintas.
+
+Primer Tramo de Investigación CNEAI (Economics), Ministerio de Educación y Ciencia (1998-2003).
+
+Research award: Best Unpublished Research Paper Award ($2000) (Authored jointly with Ercilia García-Álvarez). Title: Values and Successors: A Funder’s Legacy of Different Psychosocial and Business Blends Institution: Family Firm Institute (Boston, USA) Conference: FFI conference, 2001, 11 October 2001, London Metropole Hotel.
+
+Research award: Best Research Paper (Authored jointly with Ercilia García-Álvarez). Title: Tradition or Entrepreneurship in Family Business: Is That the Question? Institution: Family Business Network (Lausanne, Switzerland) Conference: 11th Annual World Conference. Place/Date: 14 September 2000, London.
+
+Dirección General de Enseñanza Superior e Investigación Científica  PB95-0616 (1996-1999). Corporate strategy and competitiveness . (Principal resercher: Genescà Garrigosa, Enric).
+
+Dirección General de Investigación Científica y Técnica (DGICYT) PB91-0510 (1992-1995). The concept and determinants of competitiveness at the microeconomic level. (Principal researcher:  Salas Fumás, Vicente).
+
+
+##Work in Progress and Working Papers
+
+THE MIXTURE OF MUSIC LISTENING HABITS IN EUROPE: A DOUBLE PROCESS OF SOCIAL STRATIFICATION (with Tally Katz-Gerro) (under review).
+
+MUSEUM EXPERIENCES: STRATEGIES THAT BRIDGE THE SOCIAL AND AESTHETIC DIVIDE (with Elena Rubiales and Ercilia García)  (under revision).
+
+THE NATURE OF LEISURE REVISITED: AN INTERPRETATION OF DIGITAL LEISURE (with Laura Rojas and Ercilia García) (under second review).
+
+IN AND OUT OF EVERYDAY LIFE THROUGH FILM EXPERIENCE: A COMPARISON OF TWO SOCIAL SPACES AS LEISURE FRAMES (with Ercilia García and Ana Hernández) (under  second review).
+
+AN EMOTIONAL ROLLER COASTER: A PHENOMENOLOGICAL STUDY OF THE MAGIC OF FILM (with Ercilia García and Ana Hernández).

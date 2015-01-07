@@ -7,8 +7,7 @@ indexes:
   page: "pages"
 baseurl: "http://jlopezsi.github.io/“
 title: “Jordi’s Blog Template for GitHub Pages"
- canonifyurls: true
-  permalinks: 
-    post: ":year/:month/:day/:title/"
-    fixed: ":title/"
-...
+permalinks: 
+  post: ":year/:month/:day/:title/"
+  fixed: ":title/"
+---

@@ -12,20 +12,103 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>What&#39;s Jekyll?</title>
-      <link>/_posts/2013-12-31-whats-jekyll/</link>
+      <title>About</title>
+      <link>/_fixed/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       <author>Mark Otto</author>
-      <guid>/_posts/2013-12-31-whats-jekyll/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&#34;https://github.com/mojombo/jekyll/blob/master/README.markdown&#34;&gt;the project&amp;rsquo;s readme&lt;/a&gt;:&lt;/p&gt;
+      <guid>/_fixed/about/</guid>
+      <description>
 
-&lt;blockquote&gt;
-&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [&amp;hellip;] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p class=&#34;message&#34;&gt;
+  Hey there! This page is includes my academic backgorund, experience and current projects. 
+&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+&lt;h2 id=&#34;dr-jordi-lópez-sintas-ip:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Dr. Jordi López Sintas (IP)&lt;/h2&gt;
 
-&lt;p&gt;Find out more by &lt;a href=&#34;https://github.com/mojombo/jekyll&#34;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;##Personal Information
+###Address:&lt;/p&gt;
+
+&lt;p&gt;Department d’economia de l’empresa, Facultat d’Economia i Empresa&lt;/p&gt;
+
+&lt;p&gt;Universitat Autònoma de Barcelona&lt;/p&gt;
+
+&lt;p&gt;Edifici B – Campus de Bellaterra&lt;/p&gt;
+
+&lt;p&gt;08193 Bellaterra (Cerdanyola del Vallès), Barcelona, SPAIN&lt;/p&gt;
+
+&lt;p&gt;###Contact:&lt;/p&gt;
+
+&lt;p&gt;Phone: (34) 93 581 2270; Fax:     (34) 93 581 2555&lt;/p&gt;
+
+&lt;p&gt;E-mail: jordi.lopez@uab.es&lt;/p&gt;
+
+&lt;p&gt;Webpage: &lt;a href=&#34;http://jlopezsi.github.io&#34;&gt;http://jlopezsi.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Birth Date: November 17th, 1959&lt;/p&gt;
+
+&lt;p&gt;Citizenship: Spain&lt;/p&gt;
+
+&lt;p&gt;##Areas of Research&lt;/p&gt;
+
+&lt;p&gt;Consumer Research; Sociology of consumption; Qualitative Research;  Information, Communication and Society&lt;/p&gt;
+
+&lt;p&gt;##Education&lt;/p&gt;
+
+&lt;p&gt;Ph.D. Business Economics, Universitat de Barcelona, 1994&lt;/p&gt;
+
+&lt;p&gt;Msc. Business Economics, Universitat Autònoma de Barcelona, 1985-1987&lt;/p&gt;
+
+&lt;p&gt;B.A. Business Studies, Universitat Barcelona, 1982-1985&lt;/p&gt;
+
+&lt;p&gt;##Academic Employment&lt;/p&gt;
+
+&lt;p&gt;Associate Professor (senior lecturer), Universitat Autònoma de Barcelona, 1998-present&lt;/p&gt;
+
+&lt;p&gt;Assistant Professor,  Universitat Autònoma de Barcelona, &lt;sup&gt;1995&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1998&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;Visiting Professor, Erasmus University, &lt;sup&gt;1994&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1995&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;Assistant Professor, Universitat Autònoma de Barcelona, 1990-1994&lt;/p&gt;
+
+&lt;p&gt;##Awards and Research Grants&lt;/p&gt;
+
+&lt;p&gt;Direcció General de Recerca, Generalitat de Catalunya: SGR-2009-411- (2010-2014).  Consumption, Markets and Culture. Principal Researcher: Jordi López-Sintas.&lt;/p&gt;
+
+&lt;p&gt;ANECA: Acreditation needed to be contracted as University full Professor in Spanish Universities (acreditación de Catedrátio de Universidad), April 2009.&lt;/p&gt;
+
+&lt;p&gt;Segundo Tramo de Investigación CNEAI (Social Sciences), Ministerio de Educación y Ciencia (2003-2008).&lt;/p&gt;
+
+&lt;p&gt;Minsterio de Educación y Ciencia, ECO2008-04101 Consumption and the Markets of Culture in Contemporary Digital Context. Principal Researcher: Jordi López-Sintas.&lt;/p&gt;
+
+&lt;p&gt;AQU-Catalunya: Acreditation needed to be contracted as University full Professor  in Catalan Universities (Acreditación de investigación avanzada para la contratación como Catedrático laboral), October 2008,  (Full professor).&lt;/p&gt;
+
+&lt;p&gt;Ministerio de Educación y Ciencia, ECO-2008-00419-E/ECON, Iberacual Conference (Principal Researcher: Ercilia García Álvarez).&lt;/p&gt;
+
+&lt;p&gt;AGAUR award of date &lt;sup&gt;17&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;. Humanities Doctoral Programme: The production and consumption of culture (Principal researcher, Daniel Rico Camps). &lt;sup&gt;17&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;/2006-&lt;sup&gt;16&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;/2007.&lt;/p&gt;
+
+&lt;p&gt;Ministerio de Ciencia y Tecnología, BEC2003-04462  The consumption of culture in Spain. (2003-2006) Principal Researcher: Jordi López-Sintas.&lt;/p&gt;
+
+&lt;p&gt;Primer Tramo de Investigación CNEAI (Economics), Ministerio de Educación y Ciencia (1998-2003).&lt;/p&gt;
+
+&lt;p&gt;Research award: Best Unpublished Research Paper Award ($2000) (Authored jointly with Ercilia García-Álvarez). Title: Values and Successors: A Funder’s Legacy of Different Psychosocial and Business Blends Institution: Family Firm Institute (Boston, USA) Conference: FFI conference, 2001, 11 October 2001, London Metropole Hotel.&lt;/p&gt;
+
+&lt;p&gt;Research award: Best Research Paper (Authored jointly with Ercilia García-Álvarez). Title: Tradition or Entrepreneurship in Family Business: Is That the Question? Institution: Family Business Network (Lausanne, Switzerland) Conference: 11th Annual World Conference. Place/Date: 14 September 2000, London.&lt;/p&gt;
+
+&lt;p&gt;Dirección General de Enseñanza Superior e Investigación Científica  PB95-0616 (1996-1999). Corporate strategy and competitiveness . (Principal resercher: Genescà Garrigosa, Enric).&lt;/p&gt;
+
+&lt;p&gt;Dirección General de Investigación Científica y Técnica (DGICYT) PB91-0510 (1992-1995). The concept and determinants of competitiveness at the microeconomic level. (Principal researcher:  Salas Fumás, Vicente).&lt;/p&gt;
+
+&lt;p&gt;##Work in Progress and Working Papers&lt;/p&gt;
+
+&lt;p&gt;THE MIXTURE OF MUSIC LISTENING HABITS IN EUROPE: A DOUBLE PROCESS OF SOCIAL STRATIFICATION (with Tally Katz-Gerro) (under review).&lt;/p&gt;
+
+&lt;p&gt;MUSEUM EXPERIENCES: STRATEGIES THAT BRIDGE THE SOCIAL AND AESTHETIC DIVIDE (with Elena Rubiales and Ercilia García)  (under revision).&lt;/p&gt;
+
+&lt;p&gt;THE NATURE OF LEISURE REVISITED: AN INTERPRETATION OF DIGITAL LEISURE (with Laura Rojas and Ercilia García) (under second review).&lt;/p&gt;
+
+&lt;p&gt;IN AND OUT OF EVERYDAY LIFE THROUGH FILM EXPERIENCE: A COMPARISON OF TWO SOCIAL SPACES AS LEISURE FRAMES (with Ercilia García and Ana Hernández) (under  second review).&lt;/p&gt;
+
+&lt;p&gt;AN EMOTIONAL ROLLER COASTER: A PHENOMENOLOGICAL STUDY OF THE MAGIC OF FILM (with Ercilia García and Ana Hernández).&lt;/p&gt;
 </description>
     </item>
     
@@ -74,6 +157,24 @@
 &lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;a href=&#34;https://github.com/poole/lanyon&#34;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
 
 &lt;p&gt;Thanks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Jekyll?</title>
+      <link>/_posts/2013-12-31-whats-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>Mark Otto</author>
+      <guid>/_posts/2013-12-31-whats-jekyll/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&#34;https://github.com/mojombo/jekyll/blob/master/README.markdown&#34;&gt;the project&amp;rsquo;s readme&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [&amp;hellip;] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+
+&lt;p&gt;Find out more by &lt;a href=&#34;https://github.com/mojombo/jekyll&#34;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

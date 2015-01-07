@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fixed
 title: About
 ---
 

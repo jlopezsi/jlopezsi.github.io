@@ -1,6 +1,6 @@
 ---
-layout: fixed
-title: About
+layout: page
+title: About me
 ---
 
 <p class="message">

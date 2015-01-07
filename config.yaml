@@ -10,4 +10,3 @@ title: “Jordi’s Blog Template for GitHub Pages"
 permalinks: 
   post: ":year/:month/:day/:title/"
   fixed: ":title/"
-...

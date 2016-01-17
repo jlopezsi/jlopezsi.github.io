@@ -11,26 +11,6 @@
     <atom:link href="http://jlopezsi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>welcome</title>
-      <link>http://jlopezsi.github.io/post/welcome/</link>
-      <pubDate>Wed, 06 Jan 2016 12:01:51 +0100</pubDate>
-      
-      <guid>http://jlopezsi.github.io/post/welcome/</guid>
-      <description>
-
-&lt;h1 id=&#34;this-is-my-first-post:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;This is my first post&lt;/h1&gt;
-
-&lt;p&gt;cvcvc
-cvcvcv
-cvcvc
-cvcvc
-cvcvcv
-cvcvcv
-cvcvc&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>http://jlopezsi.github.io/about/</link>
       <pubDate>Wed, 06 Jan 2016 12:01:51 +0100</pubDate>
@@ -115,6 +95,26 @@ Assistant Professor, Universitat Autònoma de Barcelona, 1990-1994&lt;/p&gt;
 &lt;p&gt;IN AND OUT OF EVERYDAY LIFE THROUGH FILM EXPERIENCE: A COMPARISON OF TWO SOCIAL SPACES AS LEISURE FRAMES (with Ercilia García and Ana Hernández) (under  second review).&lt;/p&gt;
 
 &lt;p&gt;AN EMOTIONAL ROLLER COASTER: A PHENOMENOLOGICAL STUDY OF THE MAGIC OF FILM (with Ercilia García and Ana Hernández).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://jlopezsi.github.io/post/welcome/</link>
+      <pubDate>Wed, 06 Jan 2016 12:01:51 +0100</pubDate>
+      
+      <guid>http://jlopezsi.github.io/post/welcome/</guid>
+      <description>
+
+&lt;h1 id=&#34;this-is-my-first-post:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;This is my first post&lt;/h1&gt;
+
+&lt;p&gt;cvcvc
+cvcvcv
+cvcvc
+cvcvc
+cvcvcv
+cvcvcv
+cvcvc&lt;/p&gt;
 </description>
     </item>
     

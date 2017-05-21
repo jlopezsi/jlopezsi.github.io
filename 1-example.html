@@ -11,7 +11,7 @@
 
 
 
-<title>About R Markdown</title>
+<title>Viridis Demo</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -231,34 +231,21 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About R Markdown</h1>
+<h1 class="title toc-ignore">Viridis Demo</h1>
 
 </div>
 
 
-<style type="text/css">
-.title {
-  display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
-}
-
-</style>
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-<h1 id="r-markdown"><strong>R Markdown</strong></h1>
-<h3 id="dynamic-documents-for-r" style="padding-top: 0px;"><em>Dynamic Documents for R</em></h3>
-<p>R Markdown is an authoring format that enables easy creation of dynamic documents, presentations, and reports from R. It combines the core syntax of <a href="https://daringfireball.net/projects/markdown/">markdown</a> (an easy to write plain text format) with embedded R code chunks that are run so their output can be included in the final document.</p>
-<p>R Markdown documents are fully reproducible (they can be automatically regenerated whenever underlying R code or data changes).</p>
-<p>R Markdown has many available output formats including <a href="http://rmarkdown.rstudio.com/html_document_format.html">HTML</a>, <a href="http://rmarkdown.rstudio.com/pdf_document_format.html">PDF</a>, <a href="http://rmarkdown.rstudio.com/word_document_format.html">MS Word</a>, <a href="http://rmarkdown.rstudio.com/beamer_presentation_format.html">Beamer</a>, <a href="http://rmarkdown.rstudio.com/ioslides_presentation_format.html">HTML5 slides</a>, <a href="http://rmarkdown.rstudio.com/tufte_handout_format.html">Tufte handouts</a>, <a href="https://bookdown.org">books</a>, <a href="http://rmarkdown.rstudio.com/flexdashboard/">dashboards</a>, and <a href="http://rmarkdown.rstudio.com/rmarkdown_websites.html">websites</a>.</p>
+<p>The code below demonstrates two color palettes in the <a href="https://github.com/sjmgarnier/viridis">viridis</a> package. Each plot displays a contour map of the Maunga Whau volcano in Auckland, New Zealand.</p>
+<div id="viridis-colors" class="section level2">
+<h2>Viridis colors</h2>
+<pre class="r"><code>image(volcano, col = viridis(200))</code></pre>
+<p><img src="1-example_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 </div>
-<div class="col-sm-6">
-
-<div class="figure">
-<img src="images/RMarkdownOutputFormats.png" />
-
+<div id="magma-colors" class="section level2">
+<h2>Magma colors</h2>
+<pre class="r"><code>image(volcano, col = viridis(200, option = &quot;A&quot;))</code></pre>
+<p><img src="1-example_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
 </div>
 
 
